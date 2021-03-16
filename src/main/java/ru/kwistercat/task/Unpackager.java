@@ -56,7 +56,7 @@ public class Unpackager {
      * сколько находится на верхушке стека чисел, и число удаляется из стека.
      *
      * @param data
-     * @return - конкатенация всех полученных подстрок.
+     * @return - конкатенация всех полученных подстрок
      */
     public String unpacking(String data) {
         String result = "";
